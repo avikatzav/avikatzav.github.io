@@ -44,8 +44,9 @@ url:
 
 # Your Dribbble Username and Client Access Token
 dribbble:
-  username:
-  token:
+  username: avikatzav
+  token: 215ebfe47eede408449a16f2e2a85cea1bccf3acc3001e28912f3d02f43038ab
+
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://username.github.io/repository-name)
